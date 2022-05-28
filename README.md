@@ -1,0 +1,1 @@
+[![Java CI with Gradle](https://github.com/Oleg50sev/allure-card-delivery-patterns/actions/workflows/gradle.yml/badge.svg)](https://github.com/Oleg50sev/allure-card-delivery-patterns/actions/workflows/gradle.yml)
